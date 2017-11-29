@@ -74,7 +74,7 @@ namespace jelbrek
             Thread.Sleep(sleepTime);
             Console.WriteLine("---------");
             Thread.Sleep(sleepTime);
-            Console.WriteLine("---------- Done sending the 60kpwn exlpoit, Please wait while Cyxty9 is installing.");
+            Console.WriteLine("---------- Done sending the 69kpwn exlpoit, Please wait while Cyxty9 is installing.");
             Thread.Sleep(3000);
             while (i < 20000)
             {
